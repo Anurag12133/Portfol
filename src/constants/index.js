@@ -112,7 +112,7 @@ const experiences = [
     title: "Voxen",
     icon: github,
     iconBg: "#383E56",
-    date: "Sep 2023 - Nov 2024",
+    date: "Sep 2023 - Nov 2023",
 
     points: [
       "Tech Stack: Typescript, React, TailwindCSS, PostrgressSQL, Cloudflare, Prisma",

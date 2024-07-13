@@ -118,7 +118,8 @@ const experiences = [
       "Tech Stack: Typescript, React, TailwindCSS, PostrgressSQL, Cloudflare, Prisma",
       "Technical Implementation: Voxen is Bloging website having CRUD operation.",
       "Description: Voxen includes a sophisticated content management system (CMS)",
-      "Voxen allows users to write and format articles, add images and multimedia, and schedule or publish their content",
+      "Voxen allows users to write and format articles, publish their content",
+        "Currently project is not complete I need to add some important stuff regarding publich content"
     ],
     source_code_link: "https://github.com/Anurag12133/Voxen",
   },
